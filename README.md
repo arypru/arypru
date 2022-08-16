@@ -10,7 +10,7 @@ Actualmente me encuentro en desarrollo de mi Tesis Final de Grado para obtener e
 
 ## Habilidades🎖
 
-### 👩‍💻 Frontend Developer
+### 👩‍💻 Frontend
 - Javascript
 - CSS 
 - HTML
@@ -26,7 +26,7 @@ Actualmente me encuentro en desarrollo de mi Tesis Final de Grado para obtener e
 - Adobe Photoshop
 - UX Research
 
-### 🛠 Backend Developer
+### 🛠 Backend
 - Laravel 
 - MySQL
 - PHP
